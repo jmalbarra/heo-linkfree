@@ -205,6 +205,7 @@ hr {
   object-fit: cover;
   background-position: center;
   border-radius: 50%;
+  background-color: #ffffff;
 }
 
 .header {
